@@ -6,4 +6,3 @@ a bunch of random scripts i made
 3. paste the script
 ## NoMorePixilartAd (Bookmarklet)
 it deletes the ad in the bottom right of Pixilart.com.
-It can also be used in tampermonkey.
